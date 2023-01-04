@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/Akshay962/SD.git /SD
+git clone https://github.com/Akshay962/SDA.git /SDA
 cd /Akshay962
 pip3 install -r requirements.txt
 echo "Starting Bot....🍿"
